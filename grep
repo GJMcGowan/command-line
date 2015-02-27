@@ -1,0 +1,3 @@
+The grep command allows you to search inside files for particular strings or expressions.
+
+E.g. grep potato stocklist.txt would show all the instances of "potato" in stocklist.txt
