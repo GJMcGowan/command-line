@@ -1,0 +1,1 @@
+The wc command can be used to measure a file's size in terms of words, lines or bytes. It can also be used to measure these for an output piped to it. It can display all, or just some of the counts by using certain parameters
